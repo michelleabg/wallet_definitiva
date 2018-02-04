@@ -7,7 +7,7 @@ Contiene 2 wallets:
 
 2. master_nodejs: Es la wallet como su nombre lo indica, hecha con nodejs y jade en vez de HTML. Utiliza request y bootstrap.
 
-3. wallet_db: Es la base de datos creada para almacenar datos importantes para la corrida de las wallets.
+3. wallet: Es la base de datos creada para almacenar datos importantes para la corrida de las wallets.
   
   3.1 Tablas: a) crear_billetera: Esta es la tabla para manejar las sesiones. Tiene 5 campos: -guid que viene de la api
                                                                                               
